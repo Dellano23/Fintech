@@ -1,0 +1,209 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.bg-purple {
+    background-color: #AE14F7;
+    height: 100vh;
+    border-radius: 0 40px 40px 0;
+}
+
+.bg-right {
+    height: 100vh;
+}
+
+.logo {
+    color: aliceblue;
+    margin: 10px;
+}
+
+.icon-col-1 {
+    line-height: 5px;
+    margin-bottom: 100px;
+}
+
+.icon-col-1 img {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.icon-col-1 h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.icon-col-1 p {
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    font-size: 12px;
+}
+
+.container-navegation {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.container-navegation a {
+    color: white;
+    font-weight: 200;
+    font-size: 15px;
+    text-decoration: none;
+    background-color: #c164ec8e;
+    border-radius: 25px;
+    margin-bottom: 50px;
+    height: auto;
+    padding: 3px 5px;
+    box-sizing: border-box;
+}
+
+.container-saldo {
+    background-color: #6963E0;
+    margin: 20px;
+    background-size: contain;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: left;
+    border-radius: 15px;
+    align-items: center;
+}
+
+.saldo-figura {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-saldo img {
+    height: 100%;
+    width: 50%;
+}
+
+.container-saldo p {
+    font-size: 50px;
+    font-weight: 400;
+    color: aliceblue;
+}
+
+.container-saldo h1 {
+    font-size: 30px;
+    font-weight: 200;
+    color: aliceblue;
+}
+
+.container-ganhos-perdas {
+    background-color: #6963E0;
+    margin: 20px;
+    background-size: contain;
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.container-ganhos-perdas p {
+    font-size: 30px;
+    font-weight: 400;
+    color: aliceblue;
+}
+
+.container-ganhos-perdas h1 {
+    font-size: 20px;
+    font-weight: 200;
+    color: aliceblue;
+}
+
+.ganhos {
+    border-right: 5px solid white;
+}
+
+.balanco-geral {
+    margin: 20px;
+}
+
+.balanco-geral img {
+    width: 100%;
+    max-height: 300px;
+}
+
+.caixa {
+    background-color: #6963E0;
+    margin-top: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.caixa h2 {
+    font-size: 30px;
+    font-weight: 400;
+    color: aliceblue;
+    margin: 2px;
+}
+
+.caixa h3 {
+    font-size: 15px;
+    font-weight: 200;
+    color: aliceblue;
+}
+
+.caixa p {
+    font-size: 40px;
+    font-weight: 400;
+    color: aliceblue;
+    background-color: #af14f7c9;
+    text-align: center;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.container-fixos {
+    text-align: left;
+    margin: 15px 0;
+}
+
+.container-fixos h2 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.container-fixos h3 {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.caixa-extrato {
+    border: 5px solid #6963E0;
+    border-radius: 10px;
+    margin: 2px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.imagem-extrato img {
+    height: 20px;
+    width: 20px;
+}
+
+.caixa-extrato h2 {
+    font-size: 20px;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+
+.caixa-extrato p {
+    font-size: 20px;
+    font-weight: 300;
+    padding-top: 17px;
+}
