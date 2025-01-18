@@ -1,11 +1,16 @@
 👋 Olá, meu nome é Dellano!
 
-![Dellano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dellano23&theme=radical&include_icons=true)
+<div style="display: flex; justify-content: space-between;">
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellano23&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Dellano23&theme=radical&include_icons=true" width="48%" height="200" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellano23&theme=radical" width="48%" height="200" />
 
+</div>
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e desenvolvimento e busco aprender cada vez mais na área. 💻✨
 
+
+<div style="margin-top: "30px";">
 📚 Sobre Mim
 
 Sou estudante de ADS na FIAP e trabalho na área de suporte técnico, lidando com plataformas de investimentos e sistemas de atendimento ao cliente. 
@@ -27,3 +32,5 @@ Gosto de explorar tanto o desenvolvimento front-end, com tecnologias como CSS, B
 
 - Aprender mais sobre arquitetura de software e frameworks modernos.
 - Melhorar minhas habilidades de programação e desenvolvimento web.
+
+</div>
